@@ -62,9 +62,18 @@ From the complete dataset of the RSDUELO-COVID-19 Project, 9,500 tweets were ran
 
 # Citation
 If you use the NT-Grief dataset in your research or work, please consider citing the following paper:
-Automatic Detection in Twitter of Non-Traumatic Grief due to Deaths by COVID-19. A Deep Learning Approach (under review)
+Automatic Detection in Twitter of Non-Traumatic Grief due to Deaths by COVID-19. A Deep Learning Approach
 
-[Include the relevant citation here, if applicable.]
+@ARTICLE{10360118,
+  author={Mata-Vázquez, Jacinto and Pachón-Álvarez, Victoria and Gualda, Estrella and Araujo-Hernández, Míriam and García-Navarro, E. Begoña},
+  journal={IEEE Access}, 
+  title={Automatic Detection in Twitter of Non-Traumatic Grief Due to Deaths by COVID-19: A Deep Learning Approach}, 
+  year={2023},
+  volume={11},
+  number={},
+  pages={143402-143416},
+  keywords={COVID-19;Social networking (online);Task analysis;Pandemics;Blogs;Deep learning;Transformers;Hyperparameter optimization;Deep learning;hyperparameters;non-traumatic grief detection;transformers;Twitter},
+  doi={10.1109/ACCESS.2023.3343149}}
 
 ## Contact
 
